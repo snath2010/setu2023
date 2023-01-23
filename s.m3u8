@@ -1,54 +1,32 @@
 #EXTM3U
+#EXTINF:-1 group-title="Knowledge",86. TLC English
+https://tv.googledrivelinks.com/live.php?c=TLC_English&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Knowledge",87. Discovery Kids 2
+https://tv.googledrivelinks.com/live.php?c=Discovery_Kids_2&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Knowledge",88. Nick Junior
+https://tv.googledrivelinks.com/live.php?c=Nick_Junior&q=1200&e=.m3u8
 
-***** Bangladeshi Bangla *****
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", Duronto Tv
-http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
-https://last.gcdn.co/IND428/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla", News 24 HD
-https://rhridoy136.shortcm.li/news24.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
-https://rhridoy136.shortcm.li/channel24.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla", Independent TV
-https://rhridoy136.shortcm.li/independenttv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla", ATN News
-https://rhridoy136.shortcm.li/atnnews.m3u8
-
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
-https://rhridoy136.shortcm.li/shomoytv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla", Jamuna TV
-https://rhridoy136.shortcm.li/jamunatv.m3u8
-
-      
-      ****INDIAN BANGLA*****
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla [1]
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Bangla&q=250&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/899.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD [1]
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Colors_Bangla_SD&q=250&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema [2]
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Bangla_Cinema&q=250&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies [1]
-http://ukipptv.ddns.net/908.stream/index.m3u8
-
-***** "Kids" *****
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 2 
-http://89.187.185.89:3232/ban-duronto/index.m3u8
-
-#EXTINF:-1 group-title="freecatv",Duronto Tv
-http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cartoons",102. Cartoon Network Hindi
+https://tv.googledrivelinks.com/live.php?c=Cartoon_Network_Hindi&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Cartoons",103. Nick Hindi
+https://tv.googledrivelinks.com/live.php?c=Nick_Hindi&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Cartoons",104. Pogo Hindi
+https://tv.googledrivelinks.com/live.php?c=Pogo_Hindi&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Cartoons",105. sonic Hindi
+https://tv.googledrivelinks.com/live.php?c=sonic_Hindi&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Cartoons",106. Sony Yay Hindi
+https://tv.googledrivelinks.com/live.php?c=Sony_Yay_Hindi&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Cartoons",107. Nickelodeon
+https://tv.googledrivelinks.com/live.php?c=Nickelodeon&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Cartoons",108. Nick Tamil
+https://tv.googledrivelinks.com/live.php?c=Nick_Tamil&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Cartoons",109. Pogo Tamil
+https://tv.googledrivelinks.com/live.php?c=Pogo_Tamil&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Cartoons",110. CN HD English
+https://tv.googledrivelinks.com/live.php?c=CN_HD_English&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Cartoons",111. CN HD Tamil
+https://tv.googledrivelinks.com/live.php?c=CN_HD_Tamil&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Cartoons",112. CN HD Telugu
+https://tv.googledrivelinks.com/live.php?c=CN_HD_Telugu&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Cartoons",113. Nick HD Plus
+https://tv.googledrivelinks.com/live.php?c=Nick_HD_Plus&q=1200&e=.m3u8
