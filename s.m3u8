@@ -1,244 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 ,Colors Cineplex HD jio
-https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex&q=1200&e=junk.m3u8
-#EXTINF:-1 ,UTV Action
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Star Gold HD
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Star Gold Select HD
-http://180.178.188.152:8000/play/a014
-#EXTINF:-1 ,Zee Cinema HD
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,ZEEACTION
-http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,SONY MAX SD
-http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,SONY MAX-2
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,SONY MAX HD
-http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:-1 ,SONY MAX2
-http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 ,ZEE ACTION
-http://208.86.19.13:81/7288.stream/index.m3u8
-#EXTINF:-1 ,SAHARA
-http://42.200.67.163:8090/play/a0qi
-#EXTINF:-1 ,DMAKA MOVIES
-http://42.200.67.163:8090/play/a0pv
-#EXTINF:-1 ,ZEE AFLAM
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,7055 &PICTURES
-http://208.86.19.13:81/7055.stream/index.m3u8
-#EXTINF:-1 ,COLOR CINPLEX
-http://208.86.19.13:81/73555.stream/index.m3u8
-#EXTINF:-1 ,B4U MOVIES 1
-http://42.200.67.163:8090/play/a0nb
-#EXTINF:-1 group-title="freecatv",STAR PLUS HD (IN)
-http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
-#EXTINF:-1 group-title="freecatv",COLORS HD (IN)
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
-#EXTINF:-1 group-title="freecatv",COLORS HD (IN)
-http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
-#EXTINF:-1 group-title="freecatv",ZEE CLASSIC (IN)
-http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="freecatv",ZEE ANMOL CINEMA (IN)
-http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="freecatv",B4U MOVIES (IN)
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="freecatv",E24 (IN)
-http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="freecatv",B4U MOVIES (UK)
-http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+***** Bangladeshi Bangla *****
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", Duronto Tv
+http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
+https://last.gcdn.co/IND428/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla", News 24 HD
+https://rhridoy136.shortcm.li/news24.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
+https://rhridoy136.shortcm.li/channel24.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla", Independent TV
+https://rhridoy136.shortcm.li/independenttv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla", ATN News
+https://rhridoy136.shortcm.li/atnnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
+https://rhridoy136.shortcm.li/shomoytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla", Jamuna TV
+https://rhridoy136.shortcm.li/jamunatv.m3u8
+
+      
+      ****INDIAN BANGLA*****
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla [1]
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Bangla&q=250&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/899.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD [1]
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Colors_Bangla_SD&q=250&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema [2]
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Bangla_Cinema&q=250&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies [1]
+http://ukipptv.ddns.net/908.stream/index.m3u8
+
+***** "Kids" *****
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 2 
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+
 #EXTINF:-1 group-title="freecatv",Duronto Tv
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="freecatv",IB Tv Usa
-http://208.86.19.13:81/509.stream/index.m3u8
-#EXTINF:-1 ,Colors HD
-http://175.107.244.52:4455/play/a010/index.m3u8
-#EXTINF:-1 ,SET HD
-http://175.107.244.52:4455/play/a012/index.m3u8
-#EXTINF:-1 ,Star Channel HD
-http://190.83.119.67:8000/play/a0si/index.m3u8
-#EXTINF:-1 ,Sony
-http://190.83.119.67:8000/play/a0s5/index.m3u8
-#EXTINF:-1 ,Sony HD
-http://190.83.119.67:8000/play/a0sk/index.m3u8
-#EXTINF:-1 ,STAR GOLD (NEW)
-http://175.107.244.52:4455/play/a00n/index.m3u8
-#EXTINF:-1 ,Star Gold SelHD Freecatv Live IPTV
-http://175.107.244.52:4455/play/a00p/index.m3u8
-#EXTINF:-1 ,Star Plus HD Freecatv Live IPTV
-http://175.107.244.52:4455/play/a00y/index.m3u8
-#EXTINF:-1 ,ZEE CINEMA HD Freecatv Live IPTV
-http://175.107.244.52:4455/play/a00k/index.m3u8
-#EXTINF:-1 ,ZEE TV HD Freecatv Live IPTV
-http://175.107.244.52:4455/play/a00z/index.m3u8
-#EXTINF:-1 ,Urdu 1
-http://175.107.244.52:4455/play/a06l/index.m3u8
-#EXTINF:-1 ,ZEE Cafe HD
-http://175.107.244.52:4455/play/a01q/index.m3u8
-#EXTINF:-1 ,Zee Anmol C-10p
-http://175.107.244.52:4455/play/a03k/index.m3u8
-#EXTINF:-1 ,hungama tv-Rs 6
-http://175.107.244.52:4455/play/a03d/index.m3u8
-#EXTINF:-1 ,Romedy NOW
-http://175.107.244.52:4455/play/a026/index.m3u8
-#EXTINF:-1 ,CNN INTL Freecatv Live IPTV
-http://175.107.244.52:4455/play/a020/index.m3u8
-#EXTINF:-1 ,MEEM TV
-http://208.86.19.13:81/502.stream/index.m3u8
-#EXTINF:-1 ,Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 ,Horse and Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Law and Crime Network
-http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,National Geographic Wild
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 ,79.Discovery Investigation
-http://168.205.87.198:8555/live/adriana/123456/36.m3u8
-#EXTINF:-1 ,80.Rush Channel
-https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 ,Champions TV
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
-#EXTINF:-1 ,STAR PLUS HD (IN)
-http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,ZEE TV HD (IN)
-http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
-#EXTINF:-1 ,&pictures HD
-http://180.178.188.152:8000/play/a017
-#EXTINF:-1 ,&pictures HD
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/783.ts
-#EXTINF:-1 ,&tv HD
-http://180.178.188.152:8000/play/a01u
-#EXTINF:-1 ,&xplor HD
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2204.ts
-#EXTINF:-1 ,Sony Entertainment TV
-http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
-#EXTINF:-1 ,Star Gold HD
-http://180.178.188.152:8000/play/a012
-#EXTINF:-1 ,Star Gold 2
-http://180.178.188.152:8000/play/a01q
-#EXTINF:-1 ,Utsav Plus UK
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/1925.ts
-#EXTINF:-1 ,Zee Action
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/821.ts
-#EXTINF:-1 ,CTN
-http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
-#EXTINF:-1 ,TLC
-http://190.83.119.67:8000/play/a0sd/index.m3u8
-#EXTINF:-1 ,Sony HD
-http://172.16.29.250/hls/sonyen.m3u8
-#EXTINF:-1 ,Sony Max HD
-http://172.16.29.250/hls/sony-maxhd.m3u8
-#EXTINF:-1 ,Zee Cinema HD
-http://172.16.29.250/hls/zeecinemahd.m3u8
-#EXTINF:-1 ,Star Gold HD
-http://172.16.29.250/hls/stargold.m3u8
-#EXTINF:-1 ,Star Gold2
-http://172.16.29.250/hls/stargold2hd.m3u8
-#EXTINF:-1 ,Colors Cineplex HD
-http://172.16.29.250/hls/colorscineplex.m3u8
-#EXTINF:-1 ,UTV Action
-http://172.16.29.250/hls/utvaction.m3u8
-#EXTINF:-1 ,& Pictures HD
-http://172.16.29.250/hls/andpictures.m3u8
-#EXTINF:-1 ,Star Plus HD
-http://172.16.29.250/hls/starplus.m3u8
-#EXTINF:-1 ,Colors HD
-http://172.16.29.250/hls/colore-tv-hd.m3u8
-#EXTINF:-1 ,Colors HD
-https://tv.googledrivelinks.com/live.php?c=Colors_HD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Sony HD
-https://tv.googledrivelinks.com/live.php?c=Sony_HD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Zee TV HD
-https://tv.googledrivelinks.com/live.php?c=Zee_TV_HD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Sony SAB
-https://tv.googledrivelinks.com/live.php?c=Sony_SAB&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,And TV HD
-https://tv.googledrivelinks.com/live.php?c=And_TV_HD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Rishtey
-https://tv.googledrivelinks.com/live.php?c=Rishtey&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Sony Pal
-https://tv.googledrivelinks.com/live.php?c=Sony_Pal&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Sony SAB HD
-https://tv.googledrivelinks.com/live.php?c=Sony_SAB_HD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Epic
-https://tv.googledrivelinks.com/live.php?c=Epic_HD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Investigation Discovery
-https://tv.googledrivelinks.com/live.php?c=ID&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,DD India
-https://tv.googledrivelinks.com/live.php?c=DD_India&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Sony Wah
-https://tv.googledrivelinks.com/live.php?c=Sony_Wah&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Sony SD
-https://tv.googledrivelinks.com/live.php?c=Sony_SD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Sony Max HD
-https://tv.googledrivelinks.com/live.php?c=Sony_Max_HD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Sony Max SD
-https://tv.googledrivelinks.com/live.php?c=Sony_Max_SD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Zee Cinema HD
-https://tv.googledrivelinks.com/live.php?c=Zee_Cinema_HD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Colors Cineplex
-https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Sony MAX2
-https://tv.googledrivelinks.com/live.php?c=Sony_MAX2&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,And Pictures HD
-https://tv.googledrivelinks.com/live.php?c=And_Pictures_HD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Zee Cinema
-https://tv.googledrivelinks.com/live.php?c=Zee_Cinema&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,B4U Movies
-https://tv.googledrivelinks.com/live.php?c=B4U_Movies&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Enterr 10
-https://tv.googledrivelinks.com/live.php?c=Enterr_10&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Zee Anmol Cinema
-https://tv.googledrivelinks.com/live.php?c=Zee_Anmol_Cinema&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Maha Movies
-https://tv.googledrivelinks.com/live.php?c=Maha_Movies&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Manoranjan TV
-https://tv.googledrivelinks.com/live.php?c=Manoranjan_TV&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,B4U Kadak
-https://tv.googledrivelinks.com/live.php?c=B4U_Kadak&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Rishtey Cineplex
-https://tv.googledrivelinks.com/live.php?c=Rishtey_Cineplex&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Colors Cineplex HD
-https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex_HD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,MTV HD Plus
-https://tv.googledrivelinks.com/live.php?c=MTV_HD_Plus&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,MTV Beats HD
-https://tv.googledrivelinks.com/live.php?c=MTV_Beats_HD&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Mastiii
-https://tv.googledrivelinks.com/live.php?c=Mastiii&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,9XM
-https://tv.googledrivelinks.com/live.php?c=9XM&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,E 24
-https://tv.googledrivelinks.com/live.php?c=E_24&q=800&e=KaziTV.m3u8
-#EXTINF:-1 ,Colors HD
-https://tv.googledrivelinks.com/live.php?c=Colors_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 ,Sony HD
-https://tv.googledrivelinks.com/live.php?c=Sony_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 ,Zee TV HD
-https://tv.googledrivelinks.com/live.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 ,Sony Max HD
-https://tv.googledrivelinks.com/live.php?c=Sony_Max_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 ,Zee Cinema HD
-https://tv.googledrivelinks.com/live.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 ,Sony Pix HD
-https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 ,Sony MAX2
-https://tv.googledrivelinks.com/live.php?c=Sony_MAX2&q=1200&e=junk.m3u8
-#EXTINF:-1 ,And Pictures HD
-https://tv.googledrivelinks.com/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 ,Zee Cinema
-https://tv.googledrivelinks.com/live.php?c=Zee_Cinema&q=1200&e=junk.m3u8
-#EXTINF:-1 ,B4U Movies
-https://tv.googledrivelinks.com/live.php?c=B4U_Movies&q=1200&e=junk.m3u8
-#EXTINF:-1 ,Bhojpuri Cinema
-https://tv.googledrivelinks.com/live.php?c=Bhojpuri_Cinema&q=1200&e=junk.m3u8
-#EXTINF:-1 ,Enterr 10
-https://tv.googledrivelinks.com/live.php?c=Enterr_10&q=1200&e=junk.m3u8
-#EXTINF:-1 ,Zee Cinemalu
-https://tv.googledrivelinks.com/live.php?c=Zee_Cinemalu&q=1200&e=junk.m3u8
-#EXTINF:-1 ,Zee Anmol Cinema
-https://tv.googledrivelinks.com/live.php?c=Zee_Anmol_Cinema&q=1200&e=junk.m3u8
