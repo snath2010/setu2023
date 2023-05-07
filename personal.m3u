@@ -72,3 +72,41 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 
+
+#EXTINF:-1,SONY YAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 ,C MOVOIES
+http://208.86.19.13:81/22.stream/index.m3u8
+
+
+
+#EXTINF:-1 ,ZEE.ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 ,SONY.MAX 2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 ,Colors.Cineplex HD
+http://208.86.19.13:81/73555.stream/index.m3u8
+#EXTINF:-1 ,J Movies
+http://103.175.73.14:8000/play/a00m/index.m3u8
+#EXTINF:-1 ,Star Maa Gold
+http://103.175.73.14:8000/play/a00p/index.m3u8
+#EXTINF:-1 ,Surya Movies
+http://103.175.73.14:8000/play/a00i/index.m3u8
+#EXTINF:-1 ,Star Gold
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18lHGZjgniL7P7YmpjXL7vV4
+
+
+#EXTINF:-1 ,Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 ,MOVIES RUSSIAN
+http://myott.top/stream/DEKA6YA5JRN/107.m3u8
+#EXTINF:-1 ,SUPER HD
+http://142.132.136.139:8000/play/a003/index.m3u8
+#EXTINF:-1 ,Cinama TV (BD)
+https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
+
+
+
+#EXTINF:-1,SONY BBC EARTH
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
