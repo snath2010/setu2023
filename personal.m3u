@@ -8,12 +8,19 @@ http://parkpay.live:8080/overkill/dB2hBKSxdP/174747
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1,Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-
+#EXTINF:-1 group-title="Kolkata Channel" tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg",Star Jalsha HD
+http://103.190.35.2:8082/Star-Jalsha/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Jalsha Movies
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18r68dT6vFUKNYJrWbE_yZtc
+#EXTINF:-1 group-title="Kolkata Channel" tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452801/792451882.png",Jalsha Movies
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18r68dT6vFUKNYJrWbE_yZtc
 #EXTINF:-1,Zee Bangla Cinema
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18imG-zI-K3JlRYE1AtiAwTw
+#EXTINF:-1 group-title="Kolkata Channel" tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243776/748777464.jpeg",Sananda TV
+http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
+#EXTINF:-1 ,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 
 
@@ -70,14 +77,24 @@ http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18ijR7S62FLixH87QoF9pNrk
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 ,Bangla Talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
-
+#EXTINF:-1 group-title="BD",Dhoom Music(BD)
+https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg",Sangeet Bangla(BD)
+https://livetv-channels.b-cdn.net/8020/chunklist0.m3u8
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745308202.jpg",Zoom Music
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18pH6G0262h9FJOfucZllzQQ
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745308204.png",9XM
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18rRpbiBjVRkWeAFX1_bAioU
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/X7kY6Ywy/image86b5f8b135364512.png",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 
 #EXTINF:-1,SONY YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 ,C MOVOIES
 http://208.86.19.13:81/22.stream/index.m3u8
-
+#EXTINF:-1 group-title="Kid's Zone" tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308193.jpg",Nick
+http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18m0i4tsthh0BkLKFA-8KanA
 
 
 #EXTINF:-1 ,ZEE.ACTION
@@ -94,7 +111,19 @@ http://103.175.73.14:8000/play/a00p/index.m3u8
 http://103.175.73.14:8000/play/a00i/index.m3u8
 #EXTINF:-1 ,Star Gold
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18lHGZjgniL7P7YmpjXL7vV4
+#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png",Sony Max HD(Sony Liv)
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png",Sony Max(Sony Liv)
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg",Sony Max 2(BD)
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg",Zee Anmol Cinema(BD)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/index.m3u8?token=test
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold(BD)
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 
+#EXTINF:-1 ,ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
 
 #EXTINF:-1 ,Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
