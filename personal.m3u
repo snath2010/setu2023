@@ -97,10 +97,8 @@ http://208.86.19.13:81/22.stream/index.m3u8
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18m0i4tsthh0BkLKFA-8KanA
 
 
-#EXTINF:-1 ,ZEE.ACTION
-http://208.86.19.13:81/7288.stream/index.m3u8
-#EXTINF:-1 ,SONY.MAX 2
-http://208.86.19.13:81/7300.stream/index.m3u8
+Hindi
+
 #EXTINF:-1 ,Colors.Cineplex HD
 http://208.86.19.13:81/73555.stream/index.m3u8
 #EXTINF:-1 ,J Movies
@@ -121,7 +119,6 @@ http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/index.m3u8?token=test
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold(BD)
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
-
 #EXTINF:-1 ,ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
 
