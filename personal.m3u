@@ -1,5 +1,5 @@
 #EXTM3U
-
+Kolkata
 #EXTINF:-1 ,STAR JALSHA 1
 https://dev-freecatv.pantheonsite.io/StarJalsha.ts
 #EXTINF:-1 ,STAR JALSHA
@@ -26,8 +26,6 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 ,Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 ,Colors Bangla HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF: -1,Sony Aath
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTINF:-1 ,Enter-10-Bangla
@@ -131,7 +129,35 @@ http://142.132.136.139:8000/play/a003/index.m3u8
 #EXTINF:-1 ,Cinama TV (BD)
 https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
 
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp",Sony Pix HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp",Movies
+https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 ,007. A&E
+http://45.5.117.182:8000/play/a0hr/index.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp",MOVIES GROUP 1
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="HOLLYWOOD" tvg-logo="https://i.imgur.com/FiTdDp1.png",24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 
+
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/1Rnj5rkQ/1200px-BBC-News-2022-Alt-boxed-svg.png",BBC World News
+http://ip2121.com:8081/live/bbc/playlist.m3u8
+#EXTINF:-1 group-title="Documentary And News" tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/746456725.jpg",DW
+http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dwnews.stream/playlist.m3u8
+#EXTINF:-1 ,TNT
+http://208.86.19.13:81/16.stream/index.m3u8
+#EXTINF:-1 ,USA
+http://208.86.19.13:81/11.stream/index.m3u8
+#EXTINF:-1 ,Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/pQkb7SW/NasaTV.jpg",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1,SONY BBC EARTH
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
