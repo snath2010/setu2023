@@ -50,8 +50,6 @@ http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18uH_mfH8w6gjnBYflh33wXs
 
 
 
-#EXTINF:-1 ,Ekushay TV(BDIX)
-https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 ,RTV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 ,MY TV(Jagobd)
@@ -64,8 +62,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,Deepto TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1,SATV
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18m9f6mqX3Gvfh3zKPlxQ8v4
+
 #EXTINF:-1,Somoy TV
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18ijR7S62FLixH87QoF9pNrk
 
@@ -99,12 +96,7 @@ Hindi
 
 #EXTINF:-1 ,Colors.Cineplex HD
 http://208.86.19.13:81/73555.stream/index.m3u8
-#EXTINF:-1 ,J Movies
-http://103.175.73.14:8000/play/a00m/index.m3u8
-#EXTINF:-1 ,Star Maa Gold
-http://103.175.73.14:8000/play/a00p/index.m3u8
-#EXTINF:-1 ,Surya Movies
-http://103.175.73.14:8000/play/a00i/index.m3u8
+
 #EXTINF:-1 ,Star Gold
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18lHGZjgniL7P7YmpjXL7vV4
 #EXTINF:-1 group-title="Sony Liv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png",Sony Max HD(Sony Liv)
@@ -124,8 +116,7 @@ http://208.86.19.13:81/7288.stream/index.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 ,MOVIES RUSSIAN
 http://myott.top/stream/DEKA6YA5JRN/107.m3u8
-#EXTINF:-1 ,SUPER HD
-http://142.132.136.139:8000/play/a003/index.m3u8
+
 #EXTINF:-1 ,Cinama TV (BD)
 https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
 
