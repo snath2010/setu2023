@@ -91,6 +91,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF:-1,SONY YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1,DISNEY-SD
+http://freecatv-manik.xyz/DISNEY-SD.ts
 #EXTINF:-1 ,C MOVOIES
 http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:-1 group-title="Kid's Zone" tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308193.jpg",Nick
@@ -139,7 +141,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 
 
-
+#EXTINF:-1 ,Discovery-Channel-Bengali
+http://freecatv-manik.xyz/Discovery-Channel-Bengali.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/1Rnj5rkQ/1200px-BBC-News-2022-Alt-boxed-svg.png",BBC World News
 http://ip2121.com:8081/live/bbc/playlist.m3u8
 #EXTINF:-1 group-title="Documentary And News" tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/746456725.jpg",DW
