@@ -18,8 +18,6 @@ http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/100707
 #EXTINF:-1,ZEE BANGLA HD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/100716
 
-#EXTINF:-1 ,Colors Bangla 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_voot_MOB/Fallback/index.m3u8
 
 == Bangla Movies==
 #EXTINF:-1,STAR JALSHA MOVIES HD
@@ -72,7 +70,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,Deepto TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1,Somoy TV
+
 
 ==MUSIC==
 #EXTINF:-1 group-title="Music" ,ATN Music(Jagobd)
@@ -94,14 +92,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF:-1 group-title="Music",Playlist 01 [HD]
 http://xtv.ooo:8080/71312564/71312564/268058
-#EXTINF:-1 group-title="Music",Playlist 02 [4K]
-http://xtv.ooo:8080/71312564/71312564/268065
-#EXTINF:-1 group-title="Music",Playlist 03
-http://xtv.ooo:8080/71312564/71312564/270488
-#EXTINF:-1 group-title="Music",Playlist 04 [HD]
-http://xtv.ooo:8080/71312564/71312564/270489
-#EXTINF:-1 tvg-id="" tvg-name="Mr & Mrs Ramachari (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xo3WZsz73cRGpo3xEfKS5qwf1h.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Mr & Mrs Ramachari (2014)
-http://xtv.ooo:8080/movie/71312564/71312564/268059.mp4
+
+
 
 
 == CARTOON==
